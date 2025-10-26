@@ -1,8 +1,10 @@
 # sandbox
 
-This repository purpose is to store `experiments`. Every subfolder will have its own experimental subproject with its own environemnt and configuration.
+This repository stores experiments. 
 
-The outcome of the experiments, if providing any kind of shareable value justifying separate existence and maintenance, will be a product or library, and will be morphed into into its own repository.
+Each subfolder contains its own experimental subproject with dedicated environment and configuration. 
+
+Experiments that provide shareable value and justify separate maintenance will be promoted to their own repositories as standalone products or libraries.
 
 ## requirements
 - bash
